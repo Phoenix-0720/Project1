@@ -1,0 +1,1192 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/de217dd9-3383-574a-9eaf-c0303570e794",
+      "url": "https://www.nytimes.com/2020/10/02/us/politics/trump-covid.html",
+      "id": 100000007137500,
+      "asset_id": 100000007137500,
+      "source": "New York Times",
+      "published_date": "2020-10-02",
+      "updated": "2020-10-02 12:40:03",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Coronavirus (2019-nCoV);United States Politics and Government;Presidents and Presidency (US);Tests (Medical);Twenty-Fifth Amendment (US Constitution);Presidential Election of 2020;Trump Coronavirus Positive Result;Trump, Donald J",
+      "column": null,
+      "byline": "By Peter Baker and Maggie Haberman",
+      "type": "Article",
+      "title": "Trump Tests Positive for the Coronavirus",
+      "abstract": "The president\u2019s result came after he spent months playing down the severity of the outbreak that has killed more than 207,000 in the United States and hours after insisting that \u201cthe end of the pandemic is in sight.\u201d",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "United States Politics and Government",
+        "Presidents and Presidency (US)",
+        "Tests (Medical)",
+        "Twenty-Fifth Amendment (US Constitution)",
+        "Presidential Election of 2020",
+        "Trump Coronavirus Positive Result"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump\u2019s positive test result posed immediate challenges for the future of his campaign with barely a month until Election Day.",
+          "copyright": "Erin Schaff/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/02/us/politics/02dc-virus-trump-sub/02dc-virus-trump-sub-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/02/us/politics/02dc-virus-trump-sub/merlin_177879399_b71eae36-09c6-4b20-91bc-172b699f76bb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/02/us/politics/02dc-virus-trump-sub/merlin_177879399_b71eae36-09c6-4b20-91bc-172b699f76bb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/6ce9bb8e-8eb0-5037-8fde-1e8b52e67c32",
+      "url": "https://www.nytimes.com/2020/09/30/us/politics/trump-coronavirus-misinformation.html",
+      "id": 100000007370672,
+      "asset_id": 100000007370672,
+      "source": "New York Times",
+      "published_date": "2020-09-30",
+      "updated": "2020-10-01 08:16:23",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Rumors and Misinformation;Coronavirus (2019-nCoV);Research;United States Politics and Government;Conspiracy Theories;Trump, Donald J;Fauci, Anthony S;Cornell University",
+      "column": null,
+      "byline": "By Sheryl Gay Stolberg and Noah Weiland",
+      "type": "Article",
+      "title": "Study Finds \u2018Single Largest Driver\u2019 of Coronavirus Misinformation: Trump",
+      "abstract": "Cornell University researchers analyzing 38 million English-language articles about the pandemic found that President Trump was the largest driver of the \u201cinfodemic.\u201d",
+      "des_facet": [
+        "Rumors and Misinformation",
+        "Coronavirus (2019-nCoV)",
+        "Research",
+        "United States Politics and Government",
+        "Conspiracy Theories"
+      ],
+      "org_facet": [
+        "Cornell University"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Fauci, Anthony S"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mentions of President Trump made up nearly 38 percent of the overall online \u201cmisinformation conversation\u201d about the virus, researchers said.",
+          "copyright": "Erin Schaff/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/us/politics/30dc-virus-disinformation/30dc-virus-disinformation-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/us/politics/30dc-virus-disinformation/merlin_177865905_2a60a903-61c9-4986-9282-d6b68afb8e2e-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/us/politics/30dc-virus-disinformation/merlin_177865905_2a60a903-61c9-4986-9282-d6b68afb8e2e-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5c90f49b-089a-5e75-9746-8ccfdfe018d1",
+      "url": "https://www.nytimes.com/2020/10/01/us/politics/melania-trump-tapes.html",
+      "id": 100000007373819,
+      "asset_id": 100000007373819,
+      "source": "New York Times",
+      "published_date": "2020-10-01",
+      "updated": "2020-10-02 12:49:22",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "First Ladies (US);Audio Recordings, Downloads and Streaming;Family Separation Policy (US Immigration);Illegal Immigration;Books and Literature;United States Politics and Government;Trump, Melania;Winston Wolkoff, Stephanie;Trump, Donald J",
+      "column": null,
+      "byline": "By Michael D. Shear",
+      "type": "Article",
+      "title": "In Profane Rant, Melania Trump Takes Aim at Migrant Children and Critics",
+      "abstract": "The audio recording puts the first lady\u2019s frustrations on full display just weeks before President Trump faces the voters in his bid for a second term.",
+      "des_facet": [
+        "First Ladies (US)",
+        "Audio Recordings, Downloads and Streaming",
+        "Family Separation Policy (US Immigration)",
+        "Illegal Immigration",
+        "Books and Literature",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Melania",
+        "Winston Wolkoff, Stephanie",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The first lady, Melania Trump, complained in a recorded conversation in 2018 about having to worry about Christmas decorations.",
+          "copyright": "Kevin Lamarque/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/world/01dc-melania2/01dc-melania2-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/world/01dc-melania2/01dc-melania2-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/world/01dc-melania2/01dc-melania2-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f65c2bbe-f44e-5303-97d4-6568e608b226",
+      "url": "https://www.nytimes.com/2020/09/29/opinion/trump-election-fraud-2020.html",
+      "id": 100000007367744,
+      "asset_id": 100000007367744,
+      "source": "New York Times",
+      "published_date": "2020-09-29",
+      "updated": "2020-09-30 20:13:25",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Debates (Political);United States Politics and Government;Absentee Voting;Biden, Joseph R Jr;Trump, Donald J;Republican Party;Democratic Party",
+      "column": null,
+      "byline": "By Thomas L. Friedman",
+      "type": "Article",
+      "title": "Trump Sent a Warning. Let\u2019s Take It Seriously.",
+      "abstract": "Our democracy is in terrible danger \u2014 more than since the Civil War, more than after Pearl Harbor, more than during the Cuban missile crisis.",
+      "des_facet": [
+        "Debates (Political)",
+        "United States Politics and Government",
+        "Absentee Voting"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brendan Smialowski/Agence France-Presse \u2014 Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29friedmanWeb/29friedmanWeb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29friedmanWeb/29friedmanWeb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29friedmanWeb/29friedmanWeb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/66c86d08-e26e-5326-892a-8776b90347cd",
+      "url": "https://www.nytimes.com/2020/10/01/style/chrissy-teigen-john-legend-baby.html",
+      "id": 100000007371484,
+      "asset_id": 100000007371484,
+      "source": "New York Times",
+      "published_date": "2020-10-01",
+      "updated": "2020-10-02 10:16:48",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Deaths (Fatalities);Babies and Infants;Music;Models (Professional);Social Media;Teigen, Chrissy;Legend, John",
+      "column": null,
+      "byline": "By Mike Ives",
+      "type": "Article",
+      "title": "Chrissy Teigen and John Legend Lose Baby After Pregnancy Complications",
+      "abstract": "\u201cDriving home from the hospital with no baby,\u201d Ms. Teigen wrote on Twitter. \u201cHow can this be real.\u201d She said she and her husband had decided to call the infant Jack.",
+      "des_facet": [
+        "Deaths (Fatalities)",
+        "Babies and Infants",
+        "Music",
+        "Models (Professional)",
+        "Social Media"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Teigen, Chrissy",
+        "Legend, John"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chrissy Teigen and John Legend in Beverly Hills, Calif., in February. She was recently admitted to the hospital with pregnancy complications.",
+          "copyright": "Ringo Chiu/EPA, via Shutterstock",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/world/01TEIGEN-LEGEND02/01TEIGEN-LEGEND02-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/world/01TEIGEN-LEGEND02/01TEIGEN-LEGEND02-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/world/01TEIGEN-LEGEND02/01TEIGEN-LEGEND02-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/77e6fde7-0c67-5081-a43e-1045c034fb63",
+      "url": "https://www.nytimes.com/2020/10/02/world/reactions-trump-positive-covid-test.html",
+      "id": 100000007373973,
+      "asset_id": 100000007373973,
+      "source": "New York Times",
+      "published_date": "2020-10-02",
+      "updated": "2020-10-02 13:00:20",
+      "section": "World",
+      "subsection": "",
+      "nytdsection": "world",
+      "adx_keywords": "Coronavirus (2019-nCoV);United States Politics and Government;Trump Coronavirus Positive Result;Trump, Donald J;Trump, Melania",
+      "column": null,
+      "byline": "By Mark Landler",
+      "type": "Article",
+      "title": "Trump Tests Positive for Coronavirus, and the World Shudders",
+      "abstract": "The news of an American president contracting a potentially lethal virus carried global repercussions beyond that of any other world leader.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "United States Politics and Government",
+        "Trump Coronavirus Positive Result"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Trump, Melania"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At 74, President Trump is older than other world leaders who have contracted the coronavirus.",
+          "copyright": "Erin Schaff/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/02/world/02virus-trump-global-1/02virus-trumo-global-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/02/world/02virus-trump-global-1/merlin_177923181_b97a38a5-82db-499f-aca5-7f1bf09bc2a1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/02/world/02virus-trump-global-1/merlin_177923181_b97a38a5-82db-499f-aca5-7f1bf09bc2a1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/381ee0e8-859c-5cb7-9b04-422f0125b2a8",
+      "url": "https://www.nytimes.com/2020/09/30/us/trump-election-poll-watchers.html",
+      "id": 100000007369694,
+      "asset_id": 100000007369694,
+      "source": "New York Times",
+      "published_date": "2020-09-30",
+      "updated": "2020-10-01 15:04:09",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;Absentee Voting;Voter Fraud (Election Fraud);Voter Registration and Requirements;Debates (Political);United States Politics and Government;Trump, Donald J;Republican Party;Philadelphia (Pa)",
+      "column": null,
+      "byline": "By Danny Hakim, Stephanie Saul, Nick Corasaniti and Michael Wines",
+      "type": "Article",
+      "title": "Trump Renews Fears of Voter Intimidation as G.O.P. Poll Watchers Mobilize",
+      "abstract": "Republicans are putting together what they call an army of Trump supporters to monitor election procedures.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Absentee Voting",
+        "Voter Fraud (Election Fraud)",
+        "Voter Registration and Requirements",
+        "Debates (Political)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Philadelphia (Pa)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Voters waited in line to cast early ballots at City Hall in Philadelphia on Wednesday. President Trump on Tuesday raised dark and baseless descriptions of the city\u2019s voting process.",
+          "copyright": "Kriston Jae Bethel for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/us/politics/30POLLWATCHERS1/30POLLWATCHERS1-thumbStandard-v4.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/us/politics/30POLLWATCHERS1/30POLLWATCHERS1-mediumThreeByTwo210-v5.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/us/politics/30POLLWATCHERS1/30POLLWATCHERS1-mediumThreeByTwo440-v5.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/41b19667-d919-56b7-94c8-056ce6916c63",
+      "url": "https://www.nytimes.com/2020/10/01/us/politics/democrats-stimulus-bill.html",
+      "id": 100000007372869,
+      "asset_id": 100000007372869,
+      "source": "New York Times",
+      "published_date": "2020-10-01",
+      "updated": "2020-10-02 12:48:36",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;United States Economy;Stimulus (Economic);Law and Legislation;Unemployment Insurance;Airlines and Airplanes;Coronavirus (2019-nCoV);Pelosi, Nancy;Mnuchin, Steven T;House of Representatives",
+      "column": null,
+      "byline": "By Emily Cochrane",
+      "type": "Article",
+      "title": "With Bipartisan Deal Elusive, Democrats Push Through Their Own Stimulus Bill",
+      "abstract": "Lawmakers approved the measure along party lines, even as Speaker Nancy Pelosi said a late-stage agreement with the administration was still possible.",
+      "des_facet": [
+        "United States Politics and Government",
+        "United States Economy",
+        "Stimulus (Economic)",
+        "Law and Legislation",
+        "Unemployment Insurance",
+        "Airlines and Airplanes",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "House of Representatives"
+      ],
+      "per_facet": [
+        "Pelosi, Nancy",
+        "Mnuchin, Steven T"
+      ],
+      "geo_facet": [],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/22aa4924-9f23-5164-83fd-a3093de1cc10",
+      "url": "https://www.nytimes.com/2020/10/01/us/elections/trump-ilhan-omar.html",
+      "id": 100000007371946,
+      "asset_id": 100000007371946,
+      "source": "New York Times",
+      "published_date": "2020-10-01",
+      "updated": "2020-10-01 14:52:40",
+      "section": "U.S.",
+      "subsection": "Elections",
+      "nytdsection": "u.s.",
+      "adx_keywords": "",
+      "column": null,
+      "byline": "By Glenn Thrush",
+      "type": "Article",
+      "title": "A day after refusing to condemn white supremacists, Trump aims a xenophobic attack at Ilhan Omar.",
+      "abstract": "President Trump aimed a xenophobic attack at Representative Ilhan Omar at a rally, one day after he refused to denounce white supremacists.",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump tore into Representative Ilhan Omar of Minnesota at a rally in Duluth, Minn., Wednesday night, questioning her standing as an American even though she has been a citizen for decades.",
+          "copyright": "Erin Schaff/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/multimedia/01elections-briefing-trump1/01elections-briefing-trump1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/multimedia/01elections-briefing-trump1/merlin_177879507_f7c5c6b7-bde1-4ff7-8e71-a0bca68d2957-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/multimedia/01elections-briefing-trump1/merlin_177879507_f7c5c6b7-bde1-4ff7-8e71-a0bca68d2957-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ce1f474f-3eff-56af-bf0b-f942652b8835",
+      "url": "https://www.nytimes.com/2020/09/30/health/covid-cruise-ships.html",
+      "id": 100000007364838,
+      "asset_id": 100000007364838,
+      "source": "New York Times",
+      "published_date": "2020-09-30",
+      "updated": "2020-10-01 00:22:18",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Coronavirus (2019-nCoV);Cruises;United States Politics and Government;Lobbying and Lobbyists;Coronavirus Reopenings;Travel Warnings;Redfield, Robert R;Trump, Donald J;Centers for Disease Control and Prevention;Florida",
+      "column": null,
+      "byline": "By Sheila Kaplan",
+      "type": "Article",
+      "title": "White House Blocked C.D.C. Order to Keep Cruise Ships Docked",
+      "abstract": "The C.D.C. director wanted a \u201cno sail\u201d order extended until February, a policy that would have upset the tourism industry in the crucial swing state of Florida.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Cruises",
+        "United States Politics and Government",
+        "Lobbying and Lobbyists",
+        "Coronavirus Reopenings",
+        "Travel Warnings"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention"
+      ],
+      "per_facet": [
+        "Redfield, Robert R",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Florida"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Cruise ships docked in Miami in April. Florida\u2019s cruise industry, the largest in the nation, has been the hardest hit by the coronavirus, according to The Florida Ports Council.",
+          "copyright": "Angel Valentin for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/science/28VIRUS-NOSAIL01/28VIRUS-NOSAIL01-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/science/28VIRUS-NOSAIL01/28VIRUS-NOSAIL01-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/28/science/28VIRUS-NOSAIL01/28VIRUS-NOSAIL01-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/37f2b514-2123-5eb1-b668-e1d5a1122137",
+      "url": "https://www.nytimes.com/2020/09/30/us/politics/trump-debate-white-supremacy.html",
+      "id": 100000007370374,
+      "asset_id": 100000007370374,
+      "source": "New York Times",
+      "published_date": "2020-09-30",
+      "updated": "2020-10-01 12:50:06",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Whites;Right-Wing Extremism and Alt-Right;Debates (Political);Presidential Election of 2020;United States Politics and Government;Trump, Donald J;Republican Party;Proud Boys",
+      "column": null,
+      "byline": "By Alexander Burns, Jonathan Martin and Maggie Haberman",
+      "type": "Article",
+      "title": "G.O.P. Alarmed by Trump\u2019s Comments on Extremist Group, Fearing a Drag on the Party",
+      "abstract": "For the second time in two weeks, Republicans distanced themselves from the president, expressing unease about his failure to disavow a right-wing organization linked with white supremacy and acts of violence.",
+      "des_facet": [
+        "Whites",
+        "Right-Wing Extremism and Alt-Right",
+        "Debates (Political)",
+        "Presidential Election of 2020",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "Proud Boys"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of the Proud Boys, a group linked with white supremacists, interpreted President Trump\u2019s debate message as a virtual endorsement.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/us/politics/30campaign-ledeall1/30campaign-ledeall1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/us/politics/30campaign-ledeall1/30campaign-ledeall1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/us/politics/30campaign-ledeall1/30campaign-ledeall1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f9aedfa2-f371-5661-87d7-fd96a69d491b",
+      "url": "https://www.nytimes.com/2020/09/29/us/trump-proud-boys-biden.html",
+      "id": 100000007368968,
+      "asset_id": 100000007368968,
+      "source": "New York Times",
+      "published_date": "2020-09-29",
+      "updated": "2020-09-30 13:12:03",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "",
+      "column": null,
+      "byline": "By Sheera Frenkel and Annie Karni",
+      "type": "Article",
+      "title": "Proud Boys celebrate Trump\u2019s \u2018stand by\u2019 remark about them at the debate.",
+      "abstract": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Proud Boys gathered this month in Delta Park in Portland, Ore. The group has openly endorsed violence, and has recently been tied to several violent episodes at recent protests.",
+          "copyright": "Diana Zeyneb Alhindawi for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/us/politics/29elections-briefing-proudboys-29-23-06/29elections-briefing-proudboys-29-23-06-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/us/politics/29elections-briefing-proudboys-29-23-06/29elections-briefing-proudboys-29-23-06-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/us/politics/29elections-briefing-proudboys-29-23-06/29elections-briefing-proudboys-29-23-06-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/635bc434-89fc-5304-b3c7-a654591efdc0",
+      "url": "https://www.nytimes.com/2020/09/29/us/college-student-dies-covid.html",
+      "id": 100000007368683,
+      "asset_id": 100000007368683,
+      "source": "New York Times",
+      "published_date": "2020-09-29",
+      "updated": "2020-09-30 16:51:46",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Coronavirus (2019-nCoV);Deaths (Fatalities);Guillain-Barre Syndrome;Colleges and Universities;Dorrill, Chad (d 2020);Appalachian State University;Boone (NC)",
+      "column": null,
+      "byline": "By Shawn Hubler",
+      "type": "Article",
+      "title": "\u2018Super Healthy\u2019 College Student Dies of Rare Covid-19 Complications",
+      "abstract": "Chad Dorrill, a 19-year-old at Appalachian State, recovered from flulike symptoms but then developed neurological problems.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Deaths (Fatalities)",
+        "Guillain-Barre Syndrome",
+        "Colleges and Universities"
+      ],
+      "org_facet": [
+        "Appalachian State University"
+      ],
+      "per_facet": [
+        "Dorrill, Chad (d 2020)"
+      ],
+      "geo_facet": [
+        "Boone (NC)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chad Dorrill died of neurological complications related to Covid-19. His uncle said Mr. Dorrill\u2019s legs didn\u2019t work when he tried to get out of bed.",
+          "copyright": "Yasmin Leonard Photography",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/us/29virus-student-pix-sub/29virus-student-pix-sub-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/us/29virus-student-pix-sub/29virus-student-pix-sub-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/us/29virus-student-pix-sub/29virus-student-pix-sub-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/fe3376fc-3909-5cf2-b846-2023b849ff86",
+      "url": "https://www.nytimes.com/2020/09/30/us/elections/lebron-james-more-than-a-vote-poll-workers.html",
+      "id": 100000007370054,
+      "asset_id": 100000007370054,
+      "source": "New York Times",
+      "published_date": "2020-09-30",
+      "updated": "2020-09-30 14:23:38",
+      "section": "U.S.",
+      "subsection": "Elections",
+      "nytdsection": "u.s.",
+      "adx_keywords": "",
+      "column": null,
+      "byline": "By Astead W. Herndon",
+      "type": "Article",
+      "title": "LeBron James\u2019s effort to attract more poll workers nets 10,000 volunteers.",
+      "abstract": "More Than a Vote, the collective of athletes headlined by LeBron James, said its initiative to increase the number of poll workers in majority-Black electoral districts had amassed 10,000 volunteers.",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Anthony Davis, LeBron James and Quinn Cook of the Los Angeles Lakers kneel during the national anthem with VOTE shirts on.",
+          "copyright": "Mike Ehrmann/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/multimedia/30elections-briefings-LeBron/30elections-briefings-LeBron-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/multimedia/30elections-briefings-LeBron/30elections-briefings-LeBron-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/multimedia/30elections-briefings-LeBron/30elections-briefings-LeBron-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f698777b-ff5c-5231-b5a3-707d550fa45a",
+      "url": "https://www.nytimes.com/2020/09/30/business/media/chris-wallace-debate-moderator.html",
+      "id": 100000007370539,
+      "asset_id": 100000007370539,
+      "source": "New York Times",
+      "published_date": "2020-09-30",
+      "updated": "2020-10-01 14:40:06",
+      "section": "Business",
+      "subsection": "Media",
+      "nytdsection": "business",
+      "adx_keywords": "News and News Media;Debates (Political);Presidential Election of 2020;United States Politics and Government;Wallace, Chris (1947- );Trump, Donald J;Biden, Joseph R Jr;Fox News Channel",
+      "column": null,
+      "byline": "By Michael M. Grynbaum",
+      "type": "Article",
+      "title": "Chris Wallace Calls Debate \u2018a Terrible Missed Opportunity\u2019",
+      "abstract": "The veteran anchor conceded he was initially \u201creluctant\u201d to step in during the Trump-Biden matchup. \u201cI\u2019ve never been through anything like this,\u201d he said.",
+      "des_facet": [
+        "News and News Media",
+        "Debates (Political)",
+        "Presidential Election of 2020",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Fox News Channel"
+      ],
+      "per_facet": [
+        "Wallace, Chris (1947- )",
+        "Trump, Donald J",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;I never dreamt that it would go off the tracks the way it did,&rdquo; Chris Wallace, the moderator of the first presidential debate, said on Wednesday.",
+          "copyright": "Ruth Fremson/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/business/01WALLACE/merlin_177819006_41f4d60b-4aee-4d30-b287-70ef41611675-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/business/01WALLACE/merlin_177819006_41f4d60b-4aee-4d30-b287-70ef41611675-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/business/01WALLACE/merlin_177819006_41f4d60b-4aee-4d30-b287-70ef41611675-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/76f6b87f-68ef-51e9-b879-1b7e4aeca14b",
+      "url": "https://www.nytimes.com/2020/10/01/us/elections/amy-coney-barrett-roe-v-wade.html",
+      "id": 100000007372453,
+      "asset_id": 100000007372453,
+      "source": "New York Times",
+      "published_date": "2020-10-01",
+      "updated": "2020-10-01 17:02:38",
+      "section": "U.S.",
+      "subsection": "Elections",
+      "nytdsection": "u.s.",
+      "adx_keywords": "",
+      "column": null,
+      "byline": "By Rebecca R. Ruiz",
+      "type": "Article",
+      "title": "Amy Coney Barrett signed an ad in 2006 urging overturning the \u2018barbaric legacy\u2019 of Roe v. Wade.",
+      "abstract": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Judge Amy Coney Barrett\u2019s stated opposition to Roe v. Wade is in line with a pledge by President Trump, who promised to appoint Supreme Court justices who would overturn it.",
+          "copyright": "Erin Schaff/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/multimedia/01elections-briefing-ACB/01elections-briefing-ACB-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/multimedia/01elections-briefing-ACB/merlin_177781812_bf99e12e-a9d3-4fe5-a941-e7b103e62927-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/multimedia/01elections-briefing-ACB/merlin_177781812_bf99e12e-a9d3-4fe5-a941-e7b103e62927-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f75be8fe-b42a-5cd7-b631-1d4e92cd5410",
+      "url": "https://www.nytimes.com/2020/10/01/us/politics/mcmaster-trump-russia-election.html",
+      "id": 100000007373042,
+      "asset_id": 100000007373042,
+      "source": "New York Times",
+      "published_date": "2020-10-01",
+      "updated": "2020-10-02 10:33:35",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Russian Interference in 2016 US Elections and Ties to Trump Associates;United States Politics and Government;United States Defense and Military Forces;Books and Literature;McMaster, H R;Trump, Donald J;Russia",
+      "column": null,
+      "byline": "By David E. Sanger",
+      "type": "Article",
+      "title": "McMaster, Mostly Silent Until Now, Says Trump Is \u2018Aiding and Abetting Putin\u2019s Efforts\u2019",
+      "abstract": "\u201cThis sustained campaign of disruption, disinformation, and denial, is aided by any leader who doesn\u2019t acknowledge it,\u201d President Trump\u2019s former national security adviser said.",
+      "des_facet": [
+        "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+        "United States Politics and Government",
+        "United States Defense and Military Forces",
+        "Books and Literature"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "McMaster, H R",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Russia"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cThis sustained campaign of disruption, disinformation and denial is aided by any leader who doesn\u2019t acknowledge it,\u201d said H.R. McMaster, the president\u2019s former national security adviser and a retired lieutenant general.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/us/politics/01dc-mcmaster/01dc-mcmaster-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/us/politics/01dc-mcmaster/01dc-mcmaster-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/us/politics/01dc-mcmaster/01dc-mcmaster-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b1c83800-a65e-5662-a8e2-0468036a4168",
+      "url": "https://www.nytimes.com/2020/10/01/opinion/trump-ethics-immorality.html",
+      "id": 100000007372386,
+      "asset_id": 100000007372386,
+      "source": "New York Times",
+      "published_date": "2020-10-01",
+      "updated": "2020-10-02 12:52:04",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Election of 2020;Polls and Public Opinion;Ethics (Personal);Books and Literature;Nationalism (Theory and Philosophy);Trump, Donald J;Hibbing, John R",
+      "column": null,
+      "byline": "By David Brooks",
+      "type": "Article",
+      "title": "At His Core, Trump Is an Immoralist",
+      "abstract": "Will we let this man and his felons drag us to moral chaos?",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Polls and Public Opinion",
+        "Ethics (Personal)",
+        "Books and Literature",
+        "Nationalism (Theory and Philosophy)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Hibbing, John R"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In this presidential campaign, Trump\u2019s nationalist platform \u2014 trade, immigration \u2014 has faded into the background while his immoral nature has taken center stage.",
+          "copyright": "Tom Brenner for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/opinion/01BrooksWeb/01BrooksWeb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/opinion/01BrooksWeb/merlin_177907830_d9bcfb7e-9e00-42f2-a609-9aa7af8e830e-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/opinion/01BrooksWeb/merlin_177907830_d9bcfb7e-9e00-42f2-a609-9aa7af8e830e-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/edf8e8ec-52ca-5407-bcd2-440139ebcedb",
+      "url": "https://www.nytimes.com/2020/09/30/style/deepak-chopra-disagreement-advice.html",
+      "id": 100000007345826,
+      "asset_id": 100000007345826,
+      "source": "New York Times",
+      "published_date": "2020-09-30",
+      "updated": "2020-10-02 08:27:55",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Content Type: Service;Social Media;Buddhism;Bullies;Meditation;your-feed-selfcare;Chopra, Deepak;La Jolla (Calif)",
+      "column": null,
+      "byline": "By Nicole Pajer",
+      "type": "Article",
+      "title": "How to Have a Disagreement Like an Adult, According to Deepak Chopra",
+      "abstract": "The longtime New Age celebrity has a working theory about how we can all get along. Your mileage may vary.",
+      "des_facet": [
+        "Content Type: Service",
+        "Social Media",
+        "Buddhism",
+        "Bullies",
+        "Meditation",
+        "your-feed-selfcare"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Chopra, Deepak"
+      ],
+      "geo_facet": [
+        "La Jolla (Calif)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Philip Cheung for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/fashion/29DEEPAK1/29DEEPAK1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/fashion/29DEEPAK1/29DEEPAK1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/fashion/29DEEPAK1/29DEEPAK1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/86cf5616-2d61-5ef9-9ca5-939c9f8e4ad3",
+      "url": "https://www.nytimes.com/2020/08/07/nyregion/jean-caroll-donald-trump-lawsuit-rape.html",
+      "id": 100000007278060,
+      "asset_id": 100000007278060,
+      "source": "New York Times",
+      "published_date": "2020-08-07",
+      "updated": "2020-09-17 14:11:42",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Immunity from Prosecution;Suits and Litigation (Civil);Constitution (US);Sex Crimes;Libel and Slander;Presidents and Presidency (US);United States Politics and Government;Trump, Donald J;Carroll, E Jean;Saunders, Verna L",
+      "column": null,
+      "byline": "By Nicole Hong",
+      "type": "Article",
+      "title": "E. Jean Carroll, Who Accused Trump of Rape, Can Go Forward With Suit",
+      "abstract": "A judge rejected President Trump\u2019s bid to delay a defamation suit by Ms. Carroll, pointing to the recent Supreme Court ruling over his tax returns.",
+      "des_facet": [
+        "Immunity from Prosecution",
+        "Suits and Litigation (Civil)",
+        "Constitution (US)",
+        "Sex Crimes",
+        "Libel and Slander",
+        "Presidents and Presidency (US)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Carroll, E Jean",
+        "Saunders, Verna L"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "E. Jean Carroll wrote in a memoir that Donald Trump had raped her in the mid-1990s. He has denied the allegations.",
+          "copyright": "Jefferson Siegel for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/08/07/nyregion/07nytrump/07nytrump-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/08/07/nyregion/07nytrump/07nytrump-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/08/07/nyregion/07nytrump/07nytrump-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
